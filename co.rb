@@ -3,3 +3,4 @@
 require_relative "lib/checkout"
 require_relative "lib/item"
 require_relative "lib/promotional_rules/promotion"
+require_relative "lib/promotional_rules/lavender_pair"
