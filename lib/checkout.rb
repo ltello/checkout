@@ -16,7 +16,7 @@ class Checkout
   def total
     @total ||= rules.inject(price_before_discounts) do |total, rule|
       total - rule.new(total, *items).amount
-    end
+    end.round(2)
   end
 
   private
