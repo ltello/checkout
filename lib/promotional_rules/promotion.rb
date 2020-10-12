@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Promotion
   attr_reader :items, :price_before_discount
 

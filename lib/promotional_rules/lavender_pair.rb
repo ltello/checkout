@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class LavenderPair < Promotion
   def item_name
     "Lavender heart"
