@@ -5,3 +5,9 @@
 
 # Ignore debugger files
 .byebug_history
+
+# Ignore local RSpec setup
+.rspec-local
+
+# Ignore Profile files
+spec/examples.txt
