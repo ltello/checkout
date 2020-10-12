@@ -11,3 +11,6 @@
 
 # Ignore Profile files
 spec/examples.txt
+
+# Ignore test coverage output
+coverage
