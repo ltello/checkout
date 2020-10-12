@@ -2,3 +2,6 @@
 
 # Ignore editor files
 .idea
+
+# Ignore debugger files
+.byebug_history
